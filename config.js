@@ -7,7 +7,7 @@ module.exports = {
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
-  pathPrefix: `/gatsby-starter-resume/`, // This path is subpath of your hosting https://domain/portfolio
+  pathPrefix: `/bymak87.github.io/`, // This path is subpath of your hosting https://domain/portfolio
   firstName: 'Amelia',
   lastName: 'Smith',
   heroSubheader: 'I enjoy solving business problems with design. Some might call me a digital Jill-of-all-trades. I can design, code, provide analytics, and help businesses with their online presence.',
